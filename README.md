@@ -34,7 +34,7 @@ This project presents a visual analysis of employment trends across the UK from 
 - Ranks the lowest industries for new jobs in 2011 
 - Highlights industries that are struggling with low growth in 2011
 
-![Screenshot 2025-06-10 at 12 26 08](https://github.com/user-attachments/assets/cc68446d-a6bf-4992-bb9c-93a4b04c16d3)
+![Screenshot 2025-06-10 at 12 37 28](https://github.com/user-attachments/assets/bf009ec4-916c-4073-82b2-9f1dc536d6c5)
 
 ## 📁 Dataset Overview
 
