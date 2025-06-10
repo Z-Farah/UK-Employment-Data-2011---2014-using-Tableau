@@ -28,14 +28,13 @@ This project presents a visual analysis of employment trends across the UK from 
   - **Human Health Activities**
   - **Advertising and Market Research**
 
- ![Screenshot 2025-06-10 at 12 26 08](https://github.com/user-attachments/assets/5cc067ba-cae7-4a5b-baa1-6baed8679c46)
+![Screenshot 2025-06-10 at 12 25 00](https://github.com/user-attachments/assets/b6b03cbb-21e4-4276-aa0a-4abf746eb7d0)
 
+### 4. Bottom 10 industries with new jobs in 2011 
+- Ranks the lowest industries for new jobs in 2011 
+- Highlights industries that are struggling with low growth in 2011
 
-### 4. Top 10 Cities by Total Number of Employment
-- Ranks cities based on total job counts.
-- Highlights key employment hubs such as **London** and major regional centers.
-
-![Screenshot 2025-06-10 at 12 25 00](https://github.com/user-attachments/assets/f9294a37-0036-4660-876d-c2f687f10ed1)
+![Screenshot 2025-06-10 at 12 26 08](https://github.com/user-attachments/assets/cc68446d-a6bf-4992-bb9c-93a4b04c16d3)
 
 ## 📁 Dataset Overview
 
