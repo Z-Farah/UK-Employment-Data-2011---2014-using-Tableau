@@ -13,9 +13,13 @@ This project presents a visual analysis of employment trends across the UK from 
   - **Professional, Scientific and Technical Activities**
   - **Administrative and Support Service Activities**
 
+![Screenshot 2025-06-10 at 12 22 34](https://github.com/user-attachments/assets/8e11686c-48e7-41b8-8d27-a645ebe1cd0b)
+
 ### 2. Average % Change in Employment by City
 - A map-based view showing the average percentage change in employment across UK cities.
 - Highlights stronger relative growth in select cities across England and Scotland.
+
+![Screenshot 2025-06-10 at 12 24 02](https://github.com/user-attachments/assets/bcf9040c-b67d-413d-86db-5eac29603029)
 
 ### 3. Top 10 Sub-Industries by Employment Change (2011–2014)
 - Treemap view of the most rapidly growing sub-industries.
@@ -24,11 +28,14 @@ This project presents a visual analysis of employment trends across the UK from 
   - **Human Health Activities**
   - **Advertising and Market Research**
 
+ ![Screenshot 2025-06-10 at 12 26 08](https://github.com/user-attachments/assets/5cc067ba-cae7-4a5b-baa1-6baed8679c46)
+
+
 ### 4. Top 10 Cities by Total Number of Employment
 - Ranks cities based on total job counts.
 - Highlights key employment hubs such as **London** and major regional centers.
 
----
+![Screenshot 2025-06-10 at 12 25 00](https://github.com/user-attachments/assets/f9294a37-0036-4660-876d-c2f687f10ed1)
 
 ## 📁 Dataset Overview
 
